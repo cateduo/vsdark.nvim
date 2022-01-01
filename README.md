@@ -22,12 +22,12 @@ Install via package manager
 
  ```lua
  -- Using Packer:
- use 'duocate/vscode.nvim'
+ use 'cateduo/vscode.nvim'
  ```
 
 ```vim
 " Using Vim-Plug:
-Plug 'duocate/vscode.nvim'
+Plug 'cateduo/vscode.nvim'
 ```
 ## 🚀 Usage
 
